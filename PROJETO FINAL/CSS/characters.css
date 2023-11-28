@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Harry Potter", sans-serif;
+  max-width: 1280px;
+  margin: 0 auto;
+  background-color: #d77c1e;
+}
+.link_logo_wizarding {
+  display: block; /* Torna o link um bloco para definir largura e altura */
+  width: 100px;
+  height: 100px;
+  text-align: center; /* Centraliza o link */
+  margin: 0 auto; /* Centraliza o link horizontalmente na página */
+  text-decoration: none; /* Remove sublinhado padrão do link */
+}
+
+/*Imagem Logo principal*/
+.img_logo_wizarding {
+  width: 100%; /* A imagem ocupa 100% da largura do link */
+  height: 100%; /* A imagem ocupa 100% da altura do link */
+  margin: 10px 0px 0px 0px;
+}
+
+/*Tamanho Logos Casas*/
+.logospequenas {
+  width: 27px; /* Define a largura desejada para a imagem em pixels */
+  height: auto; /* Mantém a proporção original da imagem */
+}
+
+/*Posição Logo Casas*/
+.posiçaologos {
+  text-align: right;
+  margin: -27px 0px 21px 0px;
+  padding: 0px 10px 0px 0px;
+}
+
+.nav {
+  display: flex;
+  background-color: #740001;
+  list-style: none;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  justify-content: space-around;
+}
+
+li {
+  margin: 0px;
+  padding: 5px;
+}
+
+.link_nav {
+  padding: 6px;
+  color: #ecc970;
+  text-decoration: none;
+}
+
+.cor_do_texto {
+  color: #ecc970;
+  text-decoration: none;
+}
+
+.navegacao_nielsen {
+  font-size: 12px;
+}
+
+.cor_navegacao_nielsen {
+  color: #740001;
+  text-decoration: none;
+}
+
+main h1 {
+  text-align: center;
+  color: #740001;
+}
+
+.lista_personagens {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.personagem {
+  background-color: #740001;
+  width: 250px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 15px;
+  transition: 0.2s ease-in-out;
+  outline: solid #d77c1e 2px;
+  outline-offset: -15px;
+  margin: 20px 0;
+}
+
+.character_image {
+  height: 150px;
+}
+
+.informacoes_personagens {
+  background-color: #d77c1e;
+}
+.titulo_personagem {
+  color: #740001;
+  text-align: center;
+  margin: 10px;
+}
+.tabela_informacoes_personagens {
+  border-collapse: collapse;
+  margin: 10px;
+}
+
+.tabela_informacoes_personagens td {
+  border: 2px solid #740001;
+}
+.text-font {
+  display: flex;
+  background-color: rgba(116, 0, 1, 1);
+}
+.tx1 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.tx2 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.tx3 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.tx4 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.footer {
+  transform: translate(700px, 10px);
+}
+
+.logo_footer {
+  width: 50px;
+  height: 50px;
+}

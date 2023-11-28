@@ -1,0 +1,169 @@
+.body{
+    background-color: rgba(215, 124, 30, 1);
+    color: rgba(236, 201, 112, 1);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+.GAMES{
+    margin-left: 20px;
+}
+.HP1{
+    display: flex;
+    background-color: rgba(116, 0, 1, 1);
+    padding: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto
+}
+.HP2{
+    display: flex;
+    background-color: rgba(116, 0, 1, 1);
+    padding: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto
+}
+.HP3{
+    display: flex;
+    background-color: rgba(116, 0, 1, 1);
+    padding: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto
+}
+.HP4{
+    display: flex;
+    background-color: rgba(116, 0, 1, 1);
+    padding: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto
+}
+.HP5{
+    display: flex;
+    background-color: rgba(116, 0, 1, 1);
+    padding: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto
+}
+.HP6{
+    display: flex;
+    background-color: rgba(116, 0, 1, 1);
+    padding: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto
+}
+.HP7{
+    display: flex;
+    background-color: rgba(116, 0, 1, 1);
+    padding: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto
+}
+.HogwartsLegacy{
+    display: flex;
+    background-color: rgba(116, 0, 1, 1);
+    padding: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto
+}
+.HP1Text{
+    margin-left: 50px;
+}
+.HP2Text{
+    margin-left: 50px;
+}
+.HP3text{
+    margin-left: 50px;
+}
+.HP4text{
+    margin-left: 50px;
+}
+.HP5text{
+    margin-left: 50px;
+}
+.HP6text{
+    margin-left: 50px;
+}
+.HP7text{
+    margin-left: 50px;
+}
+.HGLYtext{
+    margin-left: 50px;
+}
+.HP1capa{
+    width: 450px;
+    height: 600px;
+}
+.HP2capa{
+    width: 450px;
+    height: 600px;
+}
+.HP3capa{
+    width: 450px;
+    height: 600px;
+}
+.HP4capa{
+    width: 450px;
+    height: 600px;
+}
+.HP5capa{
+    width: 450px;
+    height: 600px;
+}
+.HP6capa{
+    width: 450px;
+    height: 600px;
+}
+.HP7capa{
+    width: 450px;
+    height: 600px;
+}
+.HGLYcapa{
+    width: 650px;
+    height: 400px;
+}
+
+
+
+
+
+.text-font{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    background-color: rgba(116, 0, 1, 1);
+    
+}
+.tx1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.tx2{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.tx3{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.tx4{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.footer{
+    transform: translate(700px, 10px);
+}
+.titulobkg{
+    background-color: rgba(116, 0, 1, 1);
+    height: 5px;
+    margin: 100px;
+}
+.titulo{
+    text-align:center;
+    color: black;
+    transform: translate(0px, -120px);
+}
